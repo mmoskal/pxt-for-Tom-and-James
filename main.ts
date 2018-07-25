@@ -1,8 +1,7 @@
 /** Something */
 namespace tj {
     //% block
-    export function blah123xyz() {
-
+    export function foobar() {
     }
 }
 
